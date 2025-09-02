@@ -1,5 +1,5 @@
 title = "dvoliva - Portafolio"
-baseurl = "http://localhost/"
+baseurl = "https://dvoliva.github.io/portafolio-dvoliva"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
